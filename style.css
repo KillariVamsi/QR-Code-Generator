@@ -1,0 +1,27 @@
+#body{
+    background-color: #273746;
+    color: black;
+}
+
+
+.container{
+    margin-top: 250px;
+    height: 150px;
+}
+
+#main-one{
+    background-color: white;
+    border-radius: 15px;
+    padding: 25px ;
+    
+}
+
+#btn, #input{
+    width: 100%;
+}
+
+#input{
+    border-radius: 5px;
+    border: 1px solid #566573;
+    height: 32px;
+}
